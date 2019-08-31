@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8857939d-2d90-42e1-b66c-abe655ab233d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/028strStr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/035searchInsert.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/007reversr.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easy/009isPalindrome.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easy/028strStr.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
@@ -102,6 +93,15 @@
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easy/035searchInsert.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -135,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/easy/026removeDuplicates.go" />
         <option value="$PROJECT_DIR$/src/easy/027removeElement.go" />
         <option value="$PROJECT_DIR$/src/easy/028strStr.go" />
+        <option value="$PROJECT_DIR$/src/easy/035searchInsert.go" />
       </list>
     </option>
   </component>
@@ -329,6 +330,13 @@
           <folding>
             <element signature="e#14#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/035searchInsert.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
