@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8857939d-2d90-42e1-b66c-abe655ab233d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/006convert.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/008myAtoi.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/006convert.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="918">
               <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/008myAtoi.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+              <folding>
+                <element signature="e#850#878#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,10 +67,11 @@
         <option value="$PROJECT_DIR$/src/easy/038countAndSay.go" />
         <option value="$PROJECT_DIR$/src/medium/005longestPalindrome.go" />
         <option value="$PROJECT_DIR$/src/medium/006convert.go" />
+        <option value="$PROJECT_DIR$/src/medium/008myAtoi.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-5" />
     <option name="y" value="1" />
     <option name="width" value="1881" />
@@ -119,6 +132,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="1" width="1881" height="1015" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13069741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -133,7 +147,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21120186" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20653442" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -264,6 +278,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/008myAtoi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#850#878#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
