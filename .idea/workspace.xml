@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8857939d-2d90-42e1-b66c-abe655ab233d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/015threeSum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/012intToRoman.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/015threeSum.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
@@ -48,6 +48,15 @@
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/012intToRoman.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -88,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/medium/008myAtoi.go" />
         <option value="$PROJECT_DIR$/src/medium/011maxArea.go" />
         <option value="$PROJECT_DIR$/src/medium/015threeSum.go" />
+        <option value="$PROJECT_DIR$/src/medium/012intToRoman.go" />
       </list>
     </option>
   </component>
@@ -152,6 +162,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="9" width="1881" height="1015" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13289401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,6 +332,13 @@
           <folding>
             <element signature="e#14#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/012intToRoman.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="40" selection-end-column="14" />
         </state>
       </provider>
     </entry>
