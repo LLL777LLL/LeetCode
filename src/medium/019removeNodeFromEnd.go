@@ -25,6 +25,19 @@ func Add(n int,li *ListNode) *ListNode {
 }
 
 //尾插法
+func Append(n int,li *ListNode) *ListNode {
+	node := &ListNode{Val:n}
+	if li == nil {
+		li = node
+	}else {
+		no := li
+		for no.Next != nil {
+			no = no.Next
+		}
+		no.Next = node
+	}
+	return li
+}
 
 
 func printList(li *ListNode) {
@@ -78,6 +91,7 @@ func removeNodeFromEnd2(li *ListNode,n int) *ListNode {
 }
 
 func main() {
+	//头插法
 	var l1 *ListNode
 	l1 = Add(6,l1)
 	l1 = Add(5,l1)
@@ -87,6 +101,13 @@ func main() {
 	l1 = Add(1,l1)
 	printList(l1)
 
-	l2 := removeNodeFromEnd(l1,1)
-	printList(l2)
+	l11 := removeNodeFromEnd(l1,1)
+	printList(l11)
+
+	//尾插法
+	//var l2 *ListNode
+	//l2 = Append(1,l2)
+	//l2 = Append(2,l2)
+	//l2 = Append(3,l2)
+	//printList(l2)
 }
